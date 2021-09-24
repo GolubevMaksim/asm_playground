@@ -1,0 +1,2 @@
+MOVE A, 16
+MOVE [A], 1
